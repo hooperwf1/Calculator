@@ -20,7 +20,7 @@ public class App extends JFrame {
 
     public App(){
         var pane = getContentPane();
-        setSize(500, 550);
+        setSize(300, 300);
         var gl = new GroupLayout(pane);
         pane.setLayout(gl);
 
